@@ -1,7 +1,7 @@
 ```.header
 Title: Posmatrajte Razvoj Kompanije Kao Izgradnju Građevine
 Subtitle: Usmjerili smo se više na pravljenje sistema po nacrtu 
-Description: Uvijek moramo da gledamo na stvari onakve kakve jesu i da zamjenimo sve što se ne održava čvrsto i istinito.
+Description: Uvijek moramo da gledamo na stvari onakve kakve jesu i da zamijenimo sve što se ne održava čvrsto i istinito.
 Image: posmatrajte.jpg
 Author: Djordje Zekovic @zekome
 Date: 14 September 2016
@@ -12,7 +12,7 @@ RefLang: /think-of-growing-a-company-as-building-construction/index.md
 
 `.video 182533197`
 
-> Posmatrajte razvoj kompanije kao izgradnju građevine. Tada svi napori trebaju biti usmjerni na stvaranju solidne osnove od ove građevine. Prvo treba da prepoznate sve što se ne održava čvrsto i istinito. Drugo, potrebno je da to zamjenite sa nečim višim i jačim. Koraci se primjenjuju na svakom bloku. Cigla po cigla, sve ispočetka, sve dok se ne napravi nešto solidno i dobro.
+> Posmatrajte razvoj kompanije kao izgradnju građevine. Tada svi napori trebaju biti usmjerni na stvaranju solidne osnove od ove građevine. Prvo treba da prepoznate sve što se ne održava čvrsto i istinito. Drugo, potrebno je da to zamijenite sa nečim višim i jačim. Koraci se primjenjuju na svakom bloku. Cigla po cigla, sve ispočetka, sve dok se ne napravi nešto solidno i dobro.
 
 Sastavljanje ove animacije mi je zaista zabavno. Poseban začin dolazi sa naglaskom Engleskog jezika. Autohtoni Englez [će odraditi glas](https://youtu.be/4cZqKZJ_v24) na kraju, u finalnoj verziji. Ovo je trenutno faza sastavljanja priče, posao u progresu - radna verzija. A sada da se pomjerimo do tačke gdje primjenjujemo ovu mudrost razvoja.
 
