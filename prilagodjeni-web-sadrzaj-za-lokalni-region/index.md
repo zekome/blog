@@ -14,7 +14,7 @@ RefLang: /adjusted-web-content-for-local-region/index.md
 
 Web sajt smo tehnički podesili prema regiji i govornom jeziku kako bi Google web pretraživač mogao bolje razumjeti našu novu **internacionalnu strukturu** u cilju prikazivanja odgovarajuće jezične verzije web stranice u rezultatima pretrage. 
 
-Zatim smo prešli na *Facebook globalne stranice* kako bi **odvojili domaći sadržaj** od globalnog prostora u kojem objavljujemo materijal na engleskom jeziku. Sa istom idejom smo iskoristili LinkedIn izložbene stranice za **lokalizaciju** sadržaja i na ovoj mreži. Postoji i [zasebni emejl bilten](/cg/bilten/) kako bi pratili naše domaće novosti i bili u toku ostalih zbivanja.
+Zatim smo prešli na *Facebook globalne stranice* kako bi **odvojili domaći sadržaj** od globalnog prostora u kojem objavljujemo materijal na engleskom jeziku. Sa istom idejom smo iskoristili LinkedIn izložbene stranice za **lokalizaciju** sadržaja i na ovoj mreži. Postoji i [zasebni e-bilten](/cg/bilten/) kako bi pratili naše domaće novosti i bili u toku ostalih zbivanja.
 
 Očekujemo da ćete imati **bolje personalizovano iskustvo** dok boravite u našem onlajn prostoru. U nastavku možete da saznate neke pojedinosti.
 
