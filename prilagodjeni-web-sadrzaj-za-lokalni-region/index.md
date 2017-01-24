@@ -6,6 +6,8 @@ Image: region_crna_gora.jpg
 Author: Djordje Zekovic @zekome
 Date: 24 January 2017
 Tags: novosti
+Lang: sr-ME
+RefLang: /adjusted-web-content-for-local-region/index.md
 ```
 
 ![Glavni jezik za lokalni sadržaj je ostao zalijepljen za regiju Crne Gore zbog hladnoće.](region_crna_gora.jpg)
