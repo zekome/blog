@@ -6,7 +6,7 @@ Image: posmatrajte.jpg
 Author: Djordje Zekovic @zekome
 Date: 14 September 2016
 Tags: novosti
-Lang: sr-ME
+Lang: sr, sh, hr, bs
 RefLang: /think-of-growing-a-company-as-building-construction/index.md
 ```
 
