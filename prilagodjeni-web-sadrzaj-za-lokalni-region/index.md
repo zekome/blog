@@ -6,7 +6,7 @@ Image: region_crna_gora.jpg
 Author: Djordje Zekovic @zekome
 Date: 24 January 2017
 Tags: novosti
-Lang: sr-ME
+Lang: sr, sh, hr, bs
 RefLang: /adjusted-web-content-for-local-region/index.md
 ```
 
