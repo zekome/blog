@@ -6,7 +6,7 @@ Image: 5years.png
 Author: Djordje Zekovic @zekome
 Date: 1 December 2016
 Tags: novosti
-Lang: sr-ME
+Lang: sr, sh, hr, bs
 RefLang: /5today/index.md
 ```
 ![img](5years.png)
