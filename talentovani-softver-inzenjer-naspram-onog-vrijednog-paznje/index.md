@@ -6,7 +6,7 @@ Image: ono-sto-odvaja-talentovanog-softver-inzenjera.jpg
 Author: Djordje Zekovic @zekome
 Date: 7 October 2016
 Tags: poduhvat
-Lang: sr-ME
+Lang: sr, sh, hr, bs
 RefLang: /talented-software-engineer-vs-noteworthy-one/index.md
 ```
 
