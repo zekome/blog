@@ -6,7 +6,7 @@ Image: kako-zapoceti-sa-mikroservisima.jpg
 Author: Djordje Zekovic @zekome
 Date: 3 October 2016
 Tags: mikroservisi
-Lang: sr-ME
+Lang: sr, sh, hr, bs
 RefLang: /how-to-start-with-microservices/index.md
 ```
 
