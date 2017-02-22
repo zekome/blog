@@ -1,6 +1,6 @@
 ```.header
 Title: Nabavite Vremeplov Za Vaš Blog
-Subtitle: Ovo nije još jedan pokušaj da se napravi vremenska mašina - mi smo u tome uspjeli
+Subtitle: Ovo nije još jedan pokušaj da se napravi vremenska mašina, mi smo u tome uspjeli
 Description: Mikroservis koji se brine o našoj javnoj dokumentaciji i blog zapisima - omogućava vremensku arhivu nad sadržajem.
 Image: delorean.jpg
 Author: Djordje Zekovic @zekome
@@ -14,11 +14,13 @@ RefLang: /get-time-machine-for-your-blog/index.md
 
 Implementirali smo mikroservis koji se brine o našoj javnoj dokumentaciji i blog zapisima. To malo parče samostalnog softvera omogućava vremensku arhivu nad sadržajem. Sam sadržaj se unosi i ažurira preko Git repozitorijuma - javno i transparentno, što može biti dodatni benefit.
 
-## Vremenska arhiva
+**Vremenska arhiva**
 
 Zanimljivo svojstvo mikroservisa je vremeplov za putovanje kroz verzije svih zapisa, uključujući i slike. Delorijen mašina vozi do unazad u prošlost sa povratnom kartom. Pravilo je - ništa ne smiješ da diraš, samo možeš da gledaš. 
 
-Kada podijelite link do bloga sa prijateljima preko društvenih mreža, sigurno želite da se sadržaj tog blog zapisa više ne mijenja, već da ostane baš onakav zbog čega se vama dopao u tom trenutku. **Samo dodajte @datum na kraju linka i vremeplov garantuje onu verziju sadržaja baš na taj dan.** 
+Kada podijelite link do bloga sa prijateljima preko društvenih mreža, sigurno želite da se sadržaj tog blog zapisa više ne mijenja, već da ostane baš onakav zbog čega se vama dopao u tom trenutku. 
+
+**Samo dodajte @datum na kraju linka i vremeplov garantuje onu verziju sadržaja baš na taj dan.** 
 
 Autori ne moraju više da stavljaju pri dnu blog zapisa da je došlo do neke izmjene, šta su promijenili i slične editorske naznake. Jednostavno održavaju samo zadnju verziju informacije. Ukoliko neko surfuje istorijom bloga, sistem će u samom vrhu web strane da obavijesti da postoji novija verzija. 
 
