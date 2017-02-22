@@ -10,11 +10,11 @@ Tags: microservices
 
 ![Get A Time Machine For You Blog](delorean.jpg)
 
-We have implemented a microservice responsible for our blog and public documentation. That little piece of software enables a time machine for documents. Changes are tracked with Git versioning system. It’s public and transparent way of dealing with modifications, which might be an additional benefit.
+We have implemented a microservice responsible for our blog and public documentation. The little piece of software enables a time machine for documents. Changes are tracked with Git versioning system. It’s public and transparent way of dealing with modifications, which might be an additional benefit ensuring trusted relationship with your readers.
 
 **Time machine**
 
-It is an interesting feature of our microservice. A time machine for travelling through different versions of content, including images. The Delorian machine drives back to the past with a return ticket. The rule is simple. You can’t touch anything, but you can take a look.
+It is an interesting feature. A time machine for travelling through different versions of content, including images. The Delorian machine drives back to the past with a return ticket. The rule is simple. You can’t touch anything, but you can take a look.
 
 When you share a link with your friends on social networks, you certainly don’t want shared content to change. It should remain just like it was at the moment you have shared it. 
 
@@ -32,9 +32,9 @@ A @date appendix can take different formats:
 
 Data is stored on GitHub’s infrastructure. There is no more database in our system. There are just two components - a web server and adjusted structure of information. We expand system with new web servers, while data is loaded into RAM on server boot.
 
-Now, we can with ease bring a new instance of web server within cluster group for a specific time period - until we handle current load and then shut it down after. It costs us just few instance/hours. The system before was more expensive. We had to reserve capacity in advance and pay the same price no matter what was the traffic load. Expense goes even higher with high-availability DB deployments. It’s good not to have this kind of expenses anymore.
+Now, we can with ease bring a new instance of web server within cluster group for a specific time period - until we handle current load and then shut it down after. It costs us just few additional instance/hours. The system before was more expensive. We had to reserve capacity in advance and pay the same price no matter what was the traffic load. Expense goes even higher with high-availability DB deployments. It’s good not to have this kind of expenses anymore.
 
-We can place server instances in different regions across the world without considering DB replication between regions. We can get much faster response time between users and web server.
+We can place server instances in different regions across the world without considering DB replication between regions. It means faster response time between users and web server.
 
 An implementation of new content serving engine means savings. It's measured in less dollars per hour and less system administration necessary to maintain a server.
 
