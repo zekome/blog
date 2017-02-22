@@ -24,7 +24,7 @@ Authors don’t need anymore to leave update notes at the end of blog entry. Sim
 
 A @date appendix can take different formats:
 
-- @20170220 - version on day 02/20/2017
+- @20170222 - version on day 02/22/2017
 - @201702 - version on Feb the 1st, 2017
 - @2017 - version on the first day of year 2017.
 
