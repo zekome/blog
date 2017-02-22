@@ -1,6 +1,6 @@
 ```.header
 Title: Get A Time Machine For You Blog
-Subtitle: This is not yet another attempt to build a time machine - we actually made it
+Subtitle: This is not yet another attempt to build a time machine, we actually made it
 Description: A microservice responsible for our blog content and other documentation for public usage, which enables a time machine for all our content.
 Image: delorean.jpg
 Author: Djordje Zekovic @zekome
@@ -28,7 +28,7 @@ A @date appendix can take different formats:
 - @201702 - version on Feb the 1st, 2017
 - @2017 - version on the first day of year 2017.
 
-## Significance of implementation for us
+## The significance of implementation for us
 
 Data is stored on GitHub’s infrastructure. There is no more databases in our system. There are just two components - a web server and adjusted structure of information. We expand system with new web servers, while data is loaded into RAM on server boot.
 
