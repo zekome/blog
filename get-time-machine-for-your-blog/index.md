@@ -12,15 +12,18 @@ Tags: microservices
 
 We have implemented a microservice responsible for our blog content and other documentation for public usage. That little piece of independent software enables a time machine for all our content. Management of content is tracked with Git versioning system. It’s a public and transparent way of dealing with changes - which might be an additional benefit.
 
-## Time machine
+**Time machine**
 
 It is an interesting feature of our microservice - a time machine for travelling through different versions of all content, including images. The Delorian machine drives back to the past with a return ticket. The rule is - you can’t touch anything, but you can take a look.
 
-When you share a link with your friends on social networks, you certainly don’t want shared content to change, but to remain just like it was at the moment you have shared it. **Just append @date at the end of link address and time-machine guarantees exactly version from that day.**
+When you share a link with your friends on social networks, you certainly don’t want shared content to change, but to remain just like it was at the moment you have shared it. 
+
+**Just append @date at the end of link address and time-machine guarantees exactly version from that day.**
  
 Authors don’t need anymore to leave update notes at the end of blog entry. Simply, they maintain just the latest version of the information. When someone is surfing the history the system will display notification at the top of web page saying that there is a newer version.
 
 A @date appendix can take different formats:
+
 - @20170220 - version on day 02/20/2017
 - @201702 - version on Feb the 1st, 2017
 - @2017 - version on the first day of year 2017.
