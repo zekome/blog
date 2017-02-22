@@ -26,7 +26,7 @@ Autori ne moraju više da stavljaju pri dnu blog zapisa da je došlo do neke izm
 
 Link dodatak *@datum* može uzimate razne oblike, kao na primjer:
 
-- @22022017 - verzija na dan 20.02.2017.
+- @22022017 - verzija na dan 22.02.2017.
 - @022017 - verzija na početak mjeseca Feb 2017.
 - @2017 - verzija na početak godine 2017.
 
