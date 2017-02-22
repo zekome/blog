@@ -32,9 +32,9 @@ A @date appendix can take different formats:
 
 Data is stored on GitHub’s infrastructure. There is no more databases in our system. There are just two components - a web server and adjusted structure of information. We expand system with new web servers, while data is loaded into RAM on server boot.
 
-Now, we can with ease bring a new instance of web server within our cluster group for a specific time period - until we handle current load and then shut it down after. It costs us just few instance/hours. The system before was more expensive. We had to reserve capacity in advance and to pay the same price no matter what was the current traffic load. Expenses goes even higher with high-availability DB deployments. It’s good not having this kind of expenses anymore.
+Now, we can with ease bring a new instance of web server within our cluster group for a specific time period - until we handle current load and then shut it down after. It costs us just few instance/hours. The system before was more expensive. We had to reserve capacity in advance and to pay the same price no matter what was the current traffic load. Expense goes even higher with high-availability DB deployments. It’s good not to have this kind of expenses anymore.
 
-With the same ease we can place server instances in different regions across the world, not considering DB replication between regions anymore - simple because we don’t have DB anymore. Along side with that, we get much faster response time between users and our web server - faster web site opening time.
+With the same ease we can place server instances in different regions across the world, not considering DB replication between regions - simple because we don’t have DB anymore. Along side with that, we get much faster response time between users and our web server - faster web site opening time.
 
 An implementation of new content engine means savings measured in dollars per hour and less complex system administration.
 
@@ -48,14 +48,14 @@ The main functionality of software is automatically loading and archiving of all
 
 ## Collaborative content management 
 
-Document can be crafted through collaboration of more users using Git tool. Editorial process is separate from the software logic. One use can prepare the first version of the content, someone can insert images with illustration, other users can make the translation, and at the end, responsible editors can make final changes and publish the document. Everything can roll out in public with GitHub repositories, or in private - for example, over BitBucket repositories. When a change of document has been committed, the system receives a notification, and then it loads all changes.
+Document can be crafted through collaboration of more users using Git tool. Editorial process is separate from the software logic. One user can prepare the first version of the content, someone can insert images with illustration, other users can make the translation, and at the end, responsible editors can make final changes and publish the document. Everything can roll out in public with GitHub repositories, or in private - for example, over BitBucket repositories. When a change of document has been committed, the system receives a notification, and then it loads all changes.
 
 ## Markdown for text styling
 
 Text of document can be styled using Markdown language. You can use any Markdown editor for writing. We use GitHub’s built-in Markdown editor, which comes with preview for styled content. Beyond standard GitHub Markdown syntax, we introduced some of our own markdown elements. It’s an element for video injection and document headers containing fundamental meta data. We can always upgrade with new markdown elements if needed. A microservice renders Markdown to HTML on the fly. It enables injection of dynamic content in document - like current number of logged-in users, weather forecast, or maybe even an Ad. Clients using microservice can provide additional data within calling context of API call, which will be included at predefined Markdown placeholders.
 
 ## Document basics
-A document is uniquely defined with its directory path. A directory path is relative within an archive, but can be mapped to some part of URL address. Inside directory you can upload images and other related files, which you can link in document using Markdown syntax. The text of document must be saved to “index.md” file in the same directory as other related files. The rules are similar to those general ones that applies to directories and index files on standard web servers. Every change to every files represents a new version of a document.
+A document is uniquely defined with its directory path. A directory path is relative within an archive, but can be mapped to some part of URL address. Inside directory you can upload images and other related files, which you can link in document using Markdown syntax. The text of document must be saved to “index.md” file in the same directory as other related files. The rules are similar to those general ones that applies to directories and index files on standard web servers. Every change to files represents a new version of a document.
 
 Every document contains a header with meta data. A header section includes: Title, Subtitle, Description, DateTime, Authors, oggraph attributes, classification, and other tags. You can create a document draft, or hide it from public index.
 
