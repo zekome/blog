@@ -28,6 +28,10 @@ A @date appendix can take different formats:
 - @201702 - version on Feb the 1st, 2017
 - @2017 - version on the first day of year 2017.
 
+## Fly with time-machine
+
+In order to try a time-machine you can go back to history of current article on day [02/22/2017](@20170222). The major difference is that we have added diagrams below and this paragraph later - it doesn’t exist back then.
+
 ## The significance of implementation for us
 
 Data is stored on GitHub’s infrastructure. There is no more database in our system. There are just two components - a web server and adjusted structure of information. We expand system with new web servers, while data is loaded into RAM on server boot.
@@ -42,6 +46,8 @@ We ask co-workers on project to send us a document in standard Markdown format. 
  
 *REMINDER: An architecture of our web site is based on three layers with microservices in the backend. The first layer is responsible for access security and URL based routing. The middleware renders HTML responses based on predefined templates. And microservices layer is just serving the data, while in the backend takes care of all logic necessary to maintain the right structure of information. All layers can be expanded on per need.*
 
+![Website Architecture](website-arch.png)
+
 ## Functional description
 
 The main functionality of microservice is automatically loading and archiving of all versions of data from specified Git repository and adjusting data structures for easy usage in web application. The archive’s base entity is a *document*, which consists of text, attached images, and other files.
@@ -49,6 +55,8 @@ The main functionality of microservice is automatically loading and archiving of
 ## Collaborative content management 
 
 Document can be crafted through collaboration of more users using Git tool. Editorial process is separate from the software logic. One user can prepare the first version of the document, someone can insert images with illustration, other users can translate it, and at the end, responsible editors can make final changes and publish the document. Everything can roll out in public with GitHub repositories, or in private - for example, over BitBucket repositories. When changes have been committed, the system receives a notification, and then loads commits.
+
+![Microservice Time-machine](micro-timemachine.png)
 
 ## Markdown for text styling
 
