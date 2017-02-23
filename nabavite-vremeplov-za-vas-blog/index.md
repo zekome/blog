@@ -12,7 +12,7 @@ RefLang: /get-time-machine-for-your-blog/index.md
 
 ![Nabavite Vremeplov Za Vaš Blog](delorean.jpg)
 
-Implementirali smo mikroservis koji se brine o našem blogu i javnoj dokumentaciji. To malo parče softvera omogućava vremensku arhivu dokumenata. Promjene se prate preko Git repozitorijuma. Sve je javno i transparentno, što može biti dodatni benefit koji osigurava dodatno povjerenje kod čitalaca.
+Implementirali smo mikroservis koji se brine o našem blogu i javnoj dokumentaciji. To malo parče softvera omogućava vremensku arhivu dokumenata. Promjene se prate preko Git repozitorijuma. Sve je javno i transparentno, što može biti benefit koji osigurava dodatno povjerenje kod čitalaca.
 
 **Vremenska arhiva**
 
