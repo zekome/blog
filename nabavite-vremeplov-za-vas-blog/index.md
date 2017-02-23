@@ -16,7 +16,7 @@ Implementirali smo mikroservis koji se brine o našem blogu i javnoj dokumentaci
 
 **Vremenska arhiva**
 
-Zanimljivo svojstvo mikroservisa je vremeplov za putovanje kroz verzije svih zapisa, uključujući i slike. Delorijen mašina vozi do unazad u prošlost sa povratnom kartom. Postoji samo jedno pravilo. Ništa ne smiješ da diraš, možeš samo da gledaš. 
+Zanimljivo svojstvo mikroservisa je vremeplov za putovanje kroz verzije svih zapisa, uključujući i slike. DeLorean mašina vozi do unazad u prošlost sa povratnom kartom. Postoji samo jedno pravilo. Ništa ne smiješ da diraš, možeš samo da gledaš. 
 
 Kada podijelite link do bloga sa prijateljima preko društvenih mreža, sigurno želite da se sadržaj tog blog zapisa više ne mijenja, već da ostane baš onakav zbog čega se vama dopao u tom trenutku. 
 
