@@ -14,7 +14,7 @@ We have implemented a microservice responsible for our blog and public documenta
 
 **Time machine**
 
-It is an interesting feature. A time machine for travelling through different versions of content, including images. The Delorian machine drives back to the past with a return ticket. The rule is simple. You can’t touch anything, but you can take a look.
+It is an interesting feature. A time machine for travelling through different versions of content, including images. The DeLorean machine drives back to the past with a return ticket. The rule is simple. You can’t touch anything, but you can take a look.
 
 When you share a link with your friends on social networks, you certainly don’t want shared content to change. It should remain just like it was at the moment you have shared it. 
 
