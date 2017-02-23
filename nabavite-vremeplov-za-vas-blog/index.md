@@ -42,7 +42,7 @@ Sada možemo sa lakoćom da podignemo još jednu instancu web servera u klasteru
 
 Sa istom lakoćom možemo da postavimo serverske instance u različitim regionima svijeta, ne razmatrajući replikaciju baze podataka između regiona. Dobijamo kraće vrijeme mrežnog odziva od samog korisnika do web servera. 
 
-Ovaj mikroservis za opsluživanje sadržaja nam znači uštedu. Ona se mjeri u manje eura po satu i manje sistemske administracije potrebne za održavanje servera.
+Ovaj mikroservis za opsluživanje sadržaja nam znači uštedu. Ona se mjeri u manje eura/satu troška i manje sistemske administracije potrebne za održavanje servera.
 
 Saradnicima na projektu kažemo da nam pošalju dokument u standardnom Markdown formatu. Programerima da nam pošalju zahtjev za povlačenje izmjena preko GitHub-a. Nema više onog tereta administriranja CMS sistema. 
 
@@ -52,7 +52,7 @@ Saradnicima na projektu kažemo da nam pošalju dokument u standardnom Markdown 
 
 ## Funkcionalni opis
 
-Osnovna funkcionalnost napravljenog softvera je automatizovano učitavanja svih verzija dokumenta sa zasebnog repozitorijuma i priprema određene strukture sadržaja za jednostavno korišćenje u web aplikacijama. Osnovni entitet arhive je dokument i sastoji se od teksta, priloženih slika i drugih fajlova.
+Osnovna funkcionalnost napravljenog mikroservisa je automatizovano učitavanja svih verzija dokumenta sa zasebnog repozitorijuma i priprema određene strukture sadržaja za jednostavno korišćenje u web aplikacijama. Osnovni entitet arhive je dokument i sastoji se od teksta, priloženih slika i drugih fajlova.
 
 ## Kolaborativno upravljanje sadržajem
 
