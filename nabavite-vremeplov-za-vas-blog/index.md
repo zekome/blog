@@ -72,15 +72,15 @@ Svaki dokument ima zaglavlje sa osnovnim podacima. Osnovni podaci su: naslov, po
 
 <pre>
 ```.header
-Title: Prilagođeni Web Sadržaj Za Lokalni Region
-Subtitle: Glavni jezik za lokalni sadržaj je ostao zalijepljen za regiju Crne Gore zbog hladnoće
-Description: Web sajt smo tehnički podesili prema regiji i govornom jeziku kako bi Google web pretraživač mogao bolje razumjeti našu novu internacionalnu strukturu.
-Image: region_crna_gora.jpg
+Title: Nabavite Vremeplov Za Vaš Blog
+Subtitle: Ovo nije još jedan pokušaj da se napravi vremenska mašina, mi smo u tome uspjeli
+Description: Mikroservis koji se brine o našoj javnoj dokumentaciji i blog zapisima - omogućava vremensku arhivu nad sadržajem.
+Image: delorean.jpg
 Author: Djordje Zekovic @zekome
-Date: 24 January 2017
-Tags: novosti
+Date: 22 February 2017
+Tags: mikroservisi
 Lang: sr, sh, hr, bs
-RefLang: /adjusted-web-content-for-local-region/index.md
+RefLang: /get-time-machine-for-your-blog/index.md
 ```
 </pre>
 
