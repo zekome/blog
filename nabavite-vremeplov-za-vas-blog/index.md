@@ -30,6 +30,10 @@ Link dodatak *@datum* može uzimate razne oblike, kao na primjer:
 - @022017 - verzija na početak mjeseca Feb 2017.
 - @2017 - verzija na početak godine 2017.
 
+## Isprobajte vremeplov
+
+Da bi ste isprobali vremeplov, proletite istim ovim člankom na dan [22.02.2017](@22022017). Razlika je u tome što smo tek kasnije ubacili dijagrame ispod i ovaj pasus - nisu postojali tada.
+
 ## Značaj implementacije za nas
 
 Izvorni podaci se nalaze skladišteni na infrastrukturi GitHub-a. Više ne postoji baza podataka u sistemu. Postoje samo dvije komponente - web server i prilagođena struktura informacija. Sistem proširujemo samo sa novim web serverima, a podaci se učitavaju prilikom podizanja servera i drže se u RAM memoriji. 
@@ -44,6 +48,8 @@ Saradnicima na projektu kažemo da nam pošalju dokument u standardnom Markdown 
 
 *PODSJETNIK: Arhitekturu našeg web sajta smo bazirali u tri sloja sa mikroservisima u pozadini. Prvi je pristupni sloj koji se brine o sigurnosti transporta i rutiranju web zahtjeva po URL putanji. Srednji sloj je zadužen za pripremu HTML odgovora na osnovu kostura web stranice. Mikroservisni sloj opsulužuje samo podatke, a u pozadini odrađuje svu potrebnu logiku za održavanje tih podataka. Sve slojeve možemo da proširujemo po potrebi.*
 
+![Web Sajt Arhitektura](website-arch.png)
+
 ## Funkcionalni opis
 
 Osnovna funkcionalnost napravljenog softvera je automatizovano učitavanja svih verzija dokumenta sa zasebnog repozitorijuma i priprema određene strukture sadržaja za jednostavno korišćenje u web aplikacijama. Osnovni entitet arhive je dokument i sastoji se od teksta, priloženih slika i drugih fajlova.
@@ -51,6 +57,8 @@ Osnovna funkcionalnost napravljenog softvera je automatizovano učitavanja svih 
 ## Kolaborativno upravljanje sadržajem
 
 Dokument se može uređivati kroz kolaboraciju više korisnika koristeći Git alat. Uređivački proces je odvojen od same logike softvera. Jedan korisnik može da pripremi prvu verziju sadržaja, drugi korisnik može da ubaci ilustracije, treći može da odradi prevode, a na kraju, zaduženi editori mogu da odrade završne izmjene i objave dokument. Sve može da se dešava javno na GitHub-u ili privatno na BitBucket hostovanom Git repozitorijumu. Onda kada se objavi nova verzija dokumenta, sistem dobija notifikaciju za učitavanje nastalih izmjena.
+
+![Mikroservis sa vremeplovom](micro-timemachine.png)
 
 ## Markdown sintaksa za stilizovanje teksta
 
