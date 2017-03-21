@@ -54,7 +54,7 @@ Krajnje tačke mogu da se nalaze u različitim geografskim regionima. Krajnja ta
 
 Crvene linije na slici pokazuju moguće mrežne putanje između povezanih krajnjih tačaka širom regiona - SAD, EU i Azija. Na primjer, krajnje tačke mogu da povezuju implementacione lokacije širom svijeta kako bi administratori mogli da pružaju usluge podrške za iste proizvode i to sve sa jednog mjesta.
 
-Krajnje tačke su povezane preko sigurnosnih tunela. Krajevi sa obje strane tunela se međusobno autentifikuju sa sertifikatima. Sertifikati su integralni dio Netdev konektora i oglašavaju protokol za upravljanje proizvodom. Sve zajedno čini jedan logički entitet koji zovemo “Krajnja tačka”.
+Krajnje tačke su povezane preko sigurnosnih tunela. Krajevi sa obje strane tunela se međusobno autentifikuju sa sertifikatima. Sertifikat je integralni dio Netdev konektora, a konektor oglašava protokol za upravljanje proizvodom. Sve zajedno čini jedan logički entitet koji zovemo “Krajnja tačka”.
 
 Krajnje tačke su dostupne preko dodijeljene IP adrese. Pripadajući mrežni segment može biti zajednički za  upotrebu  između različitih geografskih regiona. Na primjer, krajnja tačka sa IP adresom 172.16.0.20 može biti sa lokacijom u SAD, dok druga krajnja tačka može imati IP 172.16.0.30 sa lokacijom u Aziji; uz to obje IP adrese pripadaju istoj mreži 172.16.0.0/24, koja je kao izolovani mrežni segment dostupna između svih regiona.
 
