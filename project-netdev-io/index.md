@@ -50,7 +50,7 @@ Endpoints can be located in different geographic regions. An endpoint is connect
 
 Red lines show possible routes between connected endpoints across regions - US, EU, and ASIA. For example, endpoints can join deployment sites worldwide for admins to provide managed services and organize assistance during product trials all from one place.
 
-Endpoints are connected over secure tunnels. Peers on both sides of the tunnel are authenticated using certificates. Certificate is integrated in Netdev connector, which exports a protocol for managing the product. Altogether we refer to it as an “Endpoint”.
+Endpoints are connected over secure tunnels. Peers on both sides of the tunnel are authenticated using certificates. Certificate is integrated in Netdev connector that exports a protocol for managing the product. Altogether we refer to it as an “Endpoint”.
 
 Connected endpoints are accessible over provisioned IP address. A network subnet can be shared between different regions. For example, an endpoint with IP 172.16.0.20 can be located in US, while another endpoint with IP 172.16.0.30 can be located in ASIA; having both IPs belong to the same subnet 172.16.0.0/24, which is accessible between all regions. 
 
