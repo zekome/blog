@@ -68,4 +68,4 @@ Administratori pristupaju krajnjim tačkama u skladu sa dodijeljenim privilegija
 
 ## Ostanite u toku
 
-Već nekoliko mjeseci uspješno sprovodimo testove za razne upotrebne scenarije. Sada, nastavljamo dalje za razvojem i gradimo cijelu stvar za produkcionu upotrebu. Više detalja će biti dostupno tokom napredovanja na projektu. Ostanite u toku do novih informacija.
+Već nekoliko mjeseci uspješno sprovodimo testove za razne upotrebne scenarije. Sada, nastavljamo dalje za razvojem i gradimo cijelu stvar za produkcionu upotrebu. Više detalja će biti dostupno tokom napredovanja na projektu. Ostanite u toku do novih informacija - [Prijavite Se Za Naše Novosti](/cg/novosti/).
