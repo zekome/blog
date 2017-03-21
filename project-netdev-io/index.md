@@ -64,4 +64,4 @@ Admins access endpoints according to granted privileges. Commands are dynamicall
 
 ## Stay tuned
 
-We have been successfully testing real-world usable scenarios for couple months now. Now, we'll go further with developing, and build the whole thing for production usage. More details will be available as we go forward with the project. Stay tuned until the next update.
+We have been successfully testing real-world usable scenarios for couple months now. Now, we'll go further with developing, and build the whole thing for production usage. More details will be available as we go forward with the project. Stay tuned until the next update - [Subscribe For Our News](/newsletter/). 
