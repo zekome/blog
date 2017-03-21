@@ -48,7 +48,7 @@ Endpoints can be located in different geographic regions. An endpoint is connect
 ## The big picture
 ![The big picture](netdev_io_big_picture.png)
 
-Red lines show possible routes between connected endpoints across regions - US, EU, and ASIA. For example, endpoints can join deployment sites worldwide for admins to provide managed services and organize assistance during product trials from one place.
+Red lines show possible routes between connected endpoints across regions - US, EU, and ASIA. For example, endpoints can join deployment sites worldwide for admins to provide managed services and organize assistance during product trials all from one place.
 
 Endpoints are connected over secure tunnels. Peers on both sides of the tunnel are authenticated using certificates. Certificate is integrated in Netdev connector, which exports a protocol for managing the product. Altogether we refer to it as an “Endpoint”.
 
