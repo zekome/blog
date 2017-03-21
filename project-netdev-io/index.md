@@ -1,5 +1,5 @@
 ```.header
-Title: Project NETDEV I/O
+Title: Project Netdev I/O
 Subtitle: Admin’s New Best Friend
 Description: One of the goals is to facilitate all things admin for tailored products; to become an admin’s new best friend.
 Image: netdev_io_cover.png
