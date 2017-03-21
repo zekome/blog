@@ -1,5 +1,5 @@
 ```.header
-Title: Projekat NETDEV I/O
+Title: Projekat Netdev I/O
 Subtitle: Adminov Novi Najbolji Drugar
 Description: Jedan od ciljeva je da se olakšaju svi administratorski poslovi u dijelu namjenskih proizvoda; parola je postati adminov novi najbolji drugar.
 Image: netdev_io_cover.png
