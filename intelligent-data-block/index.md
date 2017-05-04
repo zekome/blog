@@ -8,7 +8,7 @@ Date: 30 April 2017
 Tags: idb
 ```
 
-/iDB.png
+![iDB - Intelligent Data Block](idb.png)
 
 iDB is the missing part of the puzzle, representing the answer to the pain that all medium to large enterprises face, the inability to easily extract the right business decisions from data. 
 
