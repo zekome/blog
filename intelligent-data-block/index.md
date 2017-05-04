@@ -12,7 +12,8 @@ Tags: idb
 
 iDB is the missing part of the puzzle, representing the answer to the pain that all medium to large enterprises face, the inability to easily extract the right business decisions from data. 
 
-## Number rich and insight poor
+
+### Number rich and insight poor
 
 Companies are now numbers-rich, but they are still insight-poor. Despite the opportunities and efficiencies that Big Data and enterprise software promise to open up, business are still being held back from truly unlocking these and getting closer to the valuable insights. 
 
@@ -20,7 +21,7 @@ Inflexibility, poor quality, and other obstacles hinder the successful productio
 
 iDB brings data analysis that actually produce applicable results. You'll be able to identify data points that correlate most strongly with business, which fast-moving metrics are the best indicators of growth, and which are the key touch points for decision making.
 
-## The Platform
+### The Platform
 
 iDB is directly linked to action - a smart block with direct input to the right analysis needed to decide between decision A or B as a result.
 
@@ -30,7 +31,7 @@ iDB is a combination of tools, process improvements, data analysis, and software
 
 It’s simplified at input, agile at processing, and concise at output, so you can easily scale and manage an increase in demand while also improving the block use. The result is a rapid-response, flexibile and robust data-analytics capability, which is able to keep up with the creativity of internal stakeholders and users. iDB complements making smart business decisions.
 
-## Intelligent data out
+### Intelligent data out
 
 You only point to raw data sources. We implement iDB - extract and analyse data, meet the requirements, and provide necessary software infrastructure.
 
