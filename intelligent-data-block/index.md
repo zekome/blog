@@ -12,6 +12,8 @@ Tags: idb
 
 iDB is the missing part of the puzzle, representing the answer to the pain that all medium to large enterprises face, the inability to easily extract the right business decisions from data. 
 
+> You can have data without information, but you cannot have information without data. 
+> – Daniel Keys Moran, an American computer programmer
 
 ### Number rich and insight poor
 
