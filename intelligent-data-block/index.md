@@ -15,9 +15,9 @@ iDB is the missing part of the puzzle, representing the answer to the pain that 
 > You can have data without information, but you cannot have information without data. 
 > – Daniel Keys Moran, an American computer programmer
 
-### Number rich and insight poor
-
 Companies are now numbers-rich, but they are still insight-poor. Despite the opportunities and efficiencies that Big Data and enterprise software promise to open up, business are still being held back from truly unlocking these and getting closer to the valuable insights. 
+
+### Number rich and insight poor
 
 Inflexibility, poor quality, and other obstacles hinder the successful production of analytics for data-driven organizations. The knowledge Big Data and enterprise software promise is meaningless without the right context and the ability to narrow down which individual measures are the most important to a business. 
 
