@@ -1,7 +1,7 @@
 ```.header
 Title: Inteligentni Data Blok
 Subtitle: Analiza podataka i Softverska infrastruktura
-Description: iDB - Inteligentni Data Blok, omogućava organizacijama da sa lakoćom donesu odluke na osnovu uvida u podatke.
+Description: iDB - Inteligentni Data Blok, omogućava organizacijama da sa lakoćom donesu prave poslovne odluke na osnovu uvida u podatke.
 Image: idb.png
 Author: Djordje Zekovic @zekome
 Date: 30 April 2017
@@ -20,17 +20,17 @@ Kompanije su bogate brojevima, raspolažu sa podacima, ali su i dalje siromašne
 
 Nefleksibilnost, loš kvalitet podataka i slične prepreke ometaju uspješno stvaranje analitike za organizacije koje se u upravljanju vode podacima. Obećano saznanje koje bi trebalo da  slijedi nakon implementacije BigData i velikih poslovnih sistema je besmisleno bez pravog upotrebnog konteksta i stvarne mogućnosti da se sistem suzi do onih individualnih metrika koje su bitne za donošenje biznis odluka.
    
-iDB uvodi analizu podataka koja zapravo proizvodi primjenjive rezultate. Moći ćete da identifikujete podatke koji su u najboljoj korelaciji sa biznisom, koje su to brzo promjenljive metrike najbolji pokazatelji rasta i koji su to ključni indikatori za donošenje odluka.
+iDB uvodi analizu podataka koja zapravo proizvodi primijenjive rezultate. Moći ćete da identifikujete podatke koji su u najboljoj korelaciji sa biznisom, koje su to brzo promijenljive metrike najbolji pokazatelji rasta i koji su to ključni indikatori za donošenje odluka.
 
 # Platforma
 
 iDB blok je direktno povezan sa procesom - pametni blok sa direktnim ulazom u pravu analizu radi donošenja odluke A ili B kao konačni ishod.
 
-Radi se o platformi koja pomaže da se poveća brzina, pouzdanost i kvalitet analize podataka. Cilj je omogućiti organizacijama da brzo ostvaruju uvid u podatke, da konvertuju taj uvid u operativnu aktivnost, a zatim, da kontinuirano poboljšavaju operacije analitike i njene performanse. Sistem se prirodno naslanja na već implementirana BigData rješenja i poslovne softvere na performantni i pouzdan način. Zauzvrat, postiže se kraće vrijeme do tržišta.
+Radi se o platformi koja pomaže da se poveća brzina, pouzdanost i kvalitet analize podataka. Cilj je omogućiti organizacijama da brzo ostvaruju realan uvid u podatke, da konvertuju taj uvid u operativnu aktivnost, a zatim, da kontinuirano poboljšavaju operacije analitike i njene performanse. Sistem se prirodno naslanja na već implementirana BigData rješenja i poslovne softvere na performantni i pouzdan način. Zauzvrat, postiže se kraće vrijeme do cilja.
 
-iDB je kombinacija alata, raznih poboljšanja procesa, analize podataka i prateće softverske infrastrukture koja omogućava brzo-reagujuću analitiku na visokom nivou kvaliteta i fleksibilnosti. Lako se prilagođava na sve korisnički zahtjeve, iako se zahtjevi mijenjaju tokom vremena, da bi ultimativno podržali poboljšano donošenje odluka na osnovu podataka.
+iDB je kombinacija alata, raznih poboljšanja procesa, analize podataka i prateće softverske infrastrukture koja omogućava brzo-reagujuću analitiku na visokom nivou kvaliteta i fleksibilnosti. Lako se prilagođava prema korisničkim zahtjevima sa ciljem da se podrži donošenje pravih poslovnih odluka.
 
-Platforma obezbijeđuje jednostavan ulaz sirovih podataka, agilno procesiranje i koncizan izlaz proizvedenih podataka, tako da je moguće da proširujete sistem i upravljate rastom zahtjeva dok istovremeno poboljšavate upotrebu cijelog iDB bloka. Rezultat je brzo-reagujuća, fleksibilna i robustna analiza podataka, koja može da prati kreativnosti internih učesnika i korisnika. iDB samo komplementira donošenje pametnih biznis odluka.
+Platforma obezbijeđuje jednostavan ulaz sirovih podataka, agilno procesiranje i koncizan izlaz proizvedenih podataka, što omogućava da se sistem lako proširuje i kontinuirano poboljšava u svim dijelovima. Rezultat je brzo-reagujuća, fleksibilna i robustna analiza podataka, koja može da prati kreativnosti internih učesnika i korisnika. iDB samo komplementira donošenje pametnih biznis odluka.
 
 # Inteligentni podaci na izlazu
 
