@@ -17,15 +17,11 @@ iDB is the missing part of the puzzle, representing the answer to the pain that 
 
 Companies are now numbers-rich, but they are still insight-poor. Despite the opportunities and efficiencies that Big Data and enterprise software promise to open up, business are still being held back from truly unlocking these and getting closer to the valuable insights. 
 
-### Number rich and insight poor
-
 Inflexibility, poor quality, and other obstacles hinder the successful production of analytics for data-driven organizations. The knowledge Big Data and enterprise software promise is meaningless without the right context and the ability to narrow down which individual measures are the most important to a business. 
-
-iDB brings data analysis that actually produce applicable results. You'll be able to identify data points that correlate most strongly with business, which fast-moving metrics are the best indicators of growth, and which are the key touch points for decision making.
 
 ### The Platform
 
-iDB is directly linked to action - a smart block with direct input to the right analysis needed to decide between decision A or B as a result.
+iDB brings data analysis that actually produce applicable results. You'll be able to identify data points that correlate most strongly with business, which fast-moving metrics are the best indicators of growth, and which are the key touch points for decision making. iDB is directly linked to action - a smart block with direct input to the right analysis needed to decide between decision A or B as a result.
 
 It's a platform that helps increase velocity, reliability, and quality of data analytics. It aims to help organizations rapidly produce insight, turn that insight into operational activity, and continuously improve analytic operations and performance. It cooperates with already implemented BigData apps or enterprise products in high performing and reliable manner. In turn it leads to faster time to market.
 
