@@ -33,5 +33,5 @@ Platforma obezbijeđuje jednostavan ulaz sirovih podataka, agilno procesiranje i
 
 ### Inteligentni podaci na izlazu
 
-Od vas se očekuje samo da pokažete na izvore sirovih podataka. Mi implementiramo iDB blok - izvlačimo i analiziramo podatke, ostvarujemo korisničke zahtjeve i omogućavamo svu potrebnu softverku infrastrukturu.
+Od vas se očekuje samo da pokažete na izvore sirovih podataka. Mi implementiramo iDB blok - izvlačimo i analiziramo podatke, ostvarujemo korisničke zahtjeve i omogućavamo svu potrebnu softversku infrastrukturu.
 
