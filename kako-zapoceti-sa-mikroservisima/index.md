@@ -46,12 +46,8 @@ Zabilješka ključnih tehničkih zahtjeva može biti korisne drugima koji takođ
 
 * Svi slojevu mogu lako da se proširuju, ili da se ubacuju u kontejnere nezavisno jedan od drugog. Važno je da se sve nalazi u Oblaku i da je infrastruktura svega par klikova blizu. Otkrivanje servisa između sebe, menadžment klastera i sigurnost između komponenata su trenutno van okvira razmatranja. Mada, sve to može biti implementirano u hodu kasnije. Za početak, svi navedeni slojevi mogu da se izvršavaju kao nezavisni sistemski procesi na jednoj instanci virtuelne mašine. **Odatle se može rasti dalje.**
 
-A sada, bih da podijelim par riječi o strukturi sistemske pozadine, koja stoji iza zeko.me domena. Implementirali smo svega 2 od 3 planirana nivoa zajedno sa uporednim prebacivanjem domena na Oblak.
+A sada, bih da podijelim par riječi o strukturi sistemske pozadine, koja stoji iza zeko.me domena. Implementirali smo svega 2 od 3 planirana nivoa zajedno sa uporednim prebacivanjem domena na Cloud.
 
 Blog podsistem je već postojao kao zasebna web aplikacija. Zbog toga sada imamo opisanu procesionu tačku i nezavisnu web aplikaciju da koegzistiraju u srednjem sloju. To bi trebala biti samo privremna zaostavština faznog migracionog procesa.
 
-Naredni korak je da eksportujemo interfejse za blog servise iz mikroservisnog sloja. To će zapravo biti prava implementacija mikroservisnog sloja.
-
-U planu je izrada još jednog mikroservisa. Biće zadužen za prikupljanje najnovijih video materijala, automatski, sa Vimeo privatnih albuma. To će omogućiti lančano uvezano objavljivanje materijala za našu [tablu za pisanje](/cg/tabla/). Postavite novi video materijal na Vimeo i on se već nađe na tabli.
-
-Mislim da smo nekako već sada na putu za kontinuiranu isporuku, ali još uvijek izgrađujemo kolosjek za voz koji tek dolazi.
+Naredni korak je da eksportujemo interfejse za blog servise iz mikroservisnog sloja. To će zapravo biti prava implementacija mikroservisnog sloja. Još uvijek izgrađujemo kolosjek za voz koji tek dolazi.
