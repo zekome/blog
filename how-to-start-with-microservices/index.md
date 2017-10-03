@@ -48,8 +48,4 @@ Now, let me share some words about the current structure of zeko.me domain backe
 
 The blog subsystem already existed as separate web application. That’s why we have now the designated renderer and a separate web application coexisting in the middleware layer. It’s just a temporary tail of migration process.
 
-The next step is to export interfaces for blog services from microservices layer. It will be an actual implementation of the microservices layer.
-
-There is yet another microservice in queue. It will be responsible for collecting latest videos automatically from Vimeo private albums. It will enable kind of publishing pipeline for our [whiteboard webpage](https://zeko.me/whiteboard/). You upload a new video to Vimeo and it’s already there on the whiteboard.
-
-I guess we are already on the continuous delivery path here, but still building the tracks for the train to come.
+The next step is to export interfaces for blog services from microservices layer. It will be an actual implementation of the microservices layer. We are still building the tracks for the train to come.
