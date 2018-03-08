@@ -1,5 +1,5 @@
 ```.header
-Title: JFloret Macro Modeler - Released
+Title: JFloret™ Macro Modeler - Released
 Subtitle: Softversko rješenje za kvantifikovanje uticaja makroekonomskog okruženja na portfolio banaka
 Description: Naš novi proizvod JFloret™ Macro Modeler predstavlja idealno softversko riješenje za kvantifikovanje uticaja seta indikatora na razvoj portfolija banaka.
 Image: jfloret_macro_modeler.png
