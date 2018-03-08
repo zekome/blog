@@ -5,10 +5,7 @@ Description: Naš novi proizvod JFloret™ Macro Modeler predstavlja idealno sof
 Image: jfloret_macro_modeler.png
 Author: Djordje Zekovic @zekome
 Date: 08 March 2018
-Tags: novosti jfloret
-Lang: sr, sh, hr, bs
-Stealth: true
-Noindex: true
+Tags: jfloret
 ```
 
 Uvođenjem novih standarda izvještavanja MFSI9, javlja se rastuća potreba za kvantifikovanjem uticaja makroekonomskog okruženja na portfolio banaka. Jedan od zahtjeva standarda odnosi se na definisanje predikcionog modela očekivanog gubitka, pri čemu parametri modela treba da uzmu u obzir sva relevantna buduća kretanja tržišta i makroekonomskog okruženja - interni i eksterni uticaj.
