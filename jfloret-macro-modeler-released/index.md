@@ -1,7 +1,7 @@
 ```.header
 Title: JFloret™ Macro Modeler - Released
-Subtitle: Softversko rješenje za kvantifikovanje uticaja makroekonomskog okruženja na portfolio banaka
-Description: Naš novi proizvod JFloret™ Macro Modeler predstavlja idealno softversko riješenje za kvantifikovanje uticaja seta indikatora na razvoj portfolija banaka.
+Subtitle: A software solution for quantification of macroeconomic environment effects on the bank portfolio
+Description: Our new software product JFloret™ Macro Modeler is an ideal solution for quantification of effects of different indicators on the bank portfolio.
 Image: jfloret_macro_modeler.png
 Author: Djordje Zekovic @zekome
 Date: 08 March 2018
@@ -10,21 +10,21 @@ Stealth: yes
 Noindex: yes
 ```
 
-Uvođenjem novih standarda izvještavanja MFSI9, javlja se rastuća potreba za kvantifikovanjem uticaja makroekonomskog okruženja na portfolio banaka. Jedan od zahtjeva standarda odnosi se na definisanje predikcionog modela očekivanog gubitka, pri čemu parametri modela treba da uzmu u obzir sva relevantna buduća kretanja tržišta i makroekonomskog okruženja - interni i eksterni uticaj.
+Introduction of the new IFRS9 standards increase the necessity for quantification of macroeconomic environment effects on the bank portfolio, modeling standardization and automation. One of IFRS9 requirements refers to the expected credit loss forward-looking modeling, where each calibrated parameter should take into account any future market and macoeconomic environment changes - internal and external effects.
 
 ![img](jfloret_macro_modeler.png)
 
-Naš novi proizvod **JFloret™ Macro Modeler** predstavlja **idealno softversko riješenje** za kvantifikovanje uticaja seta indikatora na razvoj portfolija banaka. Softver je vrlo jednostavan za korišćenje i široke je  primjene - MFSI9, stresno testiranje, ICAAP, procjena vrijednosti kolaterala i slično.
+Our new software product JFloret™ Macro Modeler is an ideal solution for quantification of effects of different indicators on the bank portfolio. It’s user friendly and covers wide spectrum of application - IFRS9, stress testing, ICAAP, collateral re-evaluation etc.
 
-Indikatori se zadaju kao nezavisne varijable, koje nisu nužno ograničene samo na makroekonomske indikatore. Razvoj portfolija banaka se definiše zavisnim varijablama, kao što su vjerovatnoće default-a, stope gubitaka, vrijednosti hipoteka itd. Kroz implementaciju algoritama mašinskog učenja (eng. machine learning) sistem na efikasan način omogućava kvantifikovanje uticaja odabranih indikatora.
+Indicators are given as independent variables, and they are not limited only to available macroeconomic indicators. The portfolio development is measured by probability of default, loss rate, loan to value ratio, which are given as dependent variables. The software efficiently provides quantification of effects of selected indicators and is supported by machine learning algorithms.
 
 ![img](jfloret_macro_modeler.gif)
 
-Od korisnika se ne zahtijeva visok nivo ekspertize iz oblasti ekonometrijskog modeliranja. Implementiramo različite metodologije i omogućavamo testiranje višestrukih screnarija. Broj simulacija je neograničen, simulacije se skladište, pa je moguće porediti različite pristupe u modeliranju.
+A user is not required to be an expert in field of econometrics modeling. The software implementation includes different modeling methodologies and allows testing of multiple modeling scenarios. Number of simulations is unlimited and every successful simulation is saved, which allows comparison of different modeling approaches.
 
-> Kada su u pitanju podaci, ‘što prije to bolje’ je uvijek najbolji odgovor.
+> With data collection, ‘the sooner the better’ is always the best answer.
 >
-> – Marissa Mayer, Yahoo! direktor
+> – Marissa Mayer, CEO Yahoo!
 
-Ukoliko želite da budete jedan skok ispred svih, slobodno nas kontaktirajte kako bi organizovali prezentaciju,  odgovorili na sva vaša pitanja u vezi sa makro modeliranjem i vidjeli zajedno na šta ukazuju podaci - ‘što prije to bolje’.
+If you want to be one jump ahead of the game, feel free to contact us in order to arrange presentation, answer all your questions regarding macro modeling, and let’s see what the data says - ‘the sooner the better’.
 
