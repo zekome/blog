@@ -19,7 +19,7 @@ Naš novi proizvod **JFloret™ Macro Modeler** predstavlja **idealno softversko
 
 Indikatori se zadaju kao nezavisne varijable, koje nisu nužno ograničene samo na makroekonomske indikatore. Razvoj portfolija banaka se definiše zavisnim varijablama, kao što su vjerovatnoće default-a, stope gubitaka, vrijednosti hipoteka itd. Kroz implementaciju algoritama mašinskog učenja (eng. machine learning) sistem na efikasan način omogućava kvantifikovanje uticaja odabranih indikatora.
 
-![img](demo.gif)
+![img](jfloret_macro_modeler.gif)
 
 Od korisnika se ne zahtijeva visok nivo ekspertize iz oblasti ekonometrijskog modeliranja. Implementiramo različite metodologije i omogućavamo testiranje višestrukih screnarija. Broj simulacija je neograničen, simulacije se skladište, pa je moguće porediti različite pristupe u modeliranju.
 
