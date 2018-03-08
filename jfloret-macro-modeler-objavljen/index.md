@@ -16,9 +16,9 @@ Uvođenjem novih standarda izvještavanja MFSI9, javlja se rastuća potreba za k
 
 ![img](jfloret_macro_modeler.png)
 
-Naš novi proizvod **JFloret™ Macro Modeler** predstavlja **idealno softversko riješenje** za kvantifikovanje uticaja seta indikatora na razvoj portfolio banake. Softver je vrlo jednostavan za korišćenje i široke je primjene - MFSI9, stresno testiranje, ICAAP, procjena vrijednosti kolaterala i slično.
+Naš novi proizvod **JFloret™ Macro Modeler** predstavlja **idealno softversko riješenje** za kvantifikovanje uticaja seta indikatora na razvoj portfolija banke. Softver je vrlo jednostavan za korišćenje i široke je primjene - MFSI9, stresno testiranje, ICAAP, procjena vrijednosti kolaterala i slično.
 
-Indikatori se zadaju kao nezavisne varijable, koje nisu nužno ograničene samo na makroekonomske indikatore. Razvoj portfolija banake se definiše zavisnim varijablama, kao što su vjerovatnoće default-a, stope gubitaka, vrijednosti hipoteka itd. Kroz implementaciju algoritama mašinskog učenja (eng. machine learning) sistem na efikasan način omogućava kvantifikovanje uticaja odabranih indikatora.
+Indikatori se zadaju kao nezavisne varijable, koje nisu nužno ograničene samo na makroekonomske indikatore. Razvoj portfolija banke se definiše zavisnim varijablama, kao što su vjerovatnoće default-a, stope gubitaka, vrijednosti hipoteka itd. Kroz implementaciju algoritama mašinskog učenja (eng. machine learning) sistem na efikasan način omogućava kvantifikovanje uticaja odabranih indikatora.
 
 ![img](jfloret_macro_modeler.gif)
 
@@ -28,4 +28,4 @@ Od korisnika se ne zahtijeva visok nivo ekspertize iz oblasti ekonometrijskog mo
 >
 > – Marissa Mayer, Yahoo! direktor
 
-Ukoliko želite da budete jedan skok ispred svih, slobodno nas kontaktirajte kako bi organizovali prezentaciju,  odgovorili na sva vaša pitanja u vezi sa makro modeliranjem i vidjeli zajedno na šta ukazuju podaci - ‘što prije to bolje’.
+Ukoliko želite da budete jedan skok ispred svih, slobodno nas kontaktirajte kako bi organizovali prezentaciju,  odgovorili na sva vaša pitanja u vezi sa makro modeliranjem i vidjeli šta kažu podaci - ‘što prije to bolje’.
