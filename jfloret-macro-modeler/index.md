@@ -24,9 +24,9 @@ Indikatori se zadaju kao nezavisne varijable, koje nisu nužno ograničene samo 
 Od korisnika se ne zahtijeva visok nivo ekspertize iz oblasti ekonometrijskog modeliranja. Implementiramo različite metodologije i omogućavamo testiranje višestrukih screnarija. Broj simulacija je neograničen, simulacije se skladište, pa je moguće porediti različite pristupe u modeliranju.
 
 > Kada su u pitanju podaci, ‘što prije to bolje’ je uvijek najbolji odgovor.
-
+>
 > – Marissa Mayer, Yahoo! direktor
 
-Ukoliko želite da budete jedan skok ispred svih, slobodno nas kontaktirajte kako bi organizovali prezentaciju,  odgovorili na sva vaša pitanja u vezi sa makro modeliranjem i vidjeli zajedno na šta ukazuju podaci - što prije to bolje.
+Ukoliko želite da budete jedan skok ispred svih, slobodno nas kontaktirajte kako bi organizovali prezentaciju,  odgovorili na sva vaša pitanja u vezi sa makro modeliranjem i vidjeli zajedno na šta ukazuju podaci - ‘što prije to bolje’.
 
 
