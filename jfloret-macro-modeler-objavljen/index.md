@@ -12,7 +12,7 @@ Stealth: yes
 Noindex: yes
 ```
 
-Uvođenjem novih standarda izvještavanja MFSI9, javlja se rastuća potreba za kvantifikovanjem uticaja makroekonomskog okruženja na portfolio banke. Jedan od zahtjeva standarda odnosi se na definisanje predikcionog modela očekivanog gubitka, pri čemu parametri modela treba da uzmu u obzir sva relevantna buduća kretanja tržišta i makroekonomskog okruženja - interni i eksterni uticaj.
+Uvođenjem novih standarda izvještavanja MFSI9, javlja se rastuća potreba za kvantifikovanjem uticaja makroekonomskog okruženja na portfolio banke, standardizaciju i automatizaciju ekonometijskog modeliranja. Jedan od zahtjeva standarda odnosi se na definisanje predikcionog modela očekivanog gubitka, pri čemu parametri modela treba da uzmu u obzir sva relevantna buduća kretanja tržišta i makroekonomskog okruženja - interni i eksterni uticaj.
 
 ![img](jfloret_macro_modeler.png)
 
