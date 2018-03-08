@@ -1,11 +1,13 @@
 ```.header
-Title: JFloret™ Macro Modeler
+Title: JFloret Macro Modeler
 Subtitle: Softversko rješenje za kvantifikovanje uticaja makroekonomskog okruženja na portfolio banaka
 Description: Naš novi proizvod JFloret™ Macro Modeler predstavlja idealno softversko riješenje za kvantifikovanje uticaja seta indikatora na razvoj portfolija banaka.
 Image: jfloret_macro_modeler.png
 Author: Djordje Zekovic @zekome
 Date: 08 March 2018
 Tags: jfloret
+Stealth: true
+Noindex: true
 ```
 
 Uvođenjem novih standarda izvještavanja MFSI9, javlja se rastuća potreba za kvantifikovanjem uticaja makroekonomskog okruženja na portfolio banaka. Jedan od zahtjeva standarda odnosi se na definisanje predikcionog modela očekivanog gubitka, pri čemu parametri modela treba da uzmu u obzir sva relevantna buduća kretanja tržišta i makroekonomskog okruženja - interni i eksterni uticaj.
