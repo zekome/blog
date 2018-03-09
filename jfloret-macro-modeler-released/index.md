@@ -6,15 +6,13 @@ Image: jfloret_macro_modeler.png
 Author: Djordje Zekovic @zekome
 Date: 08 March 2018
 Tags: jfloret
-Stealth: yes
-Noindex: yes
 ```
 
-Introduction of the new IFRS9 standards increases the necessity for quantification of macroeconomic environment effects on the bank portfolio, modeling standardization and automation. One of IFRS9 requirements refers to the expected credit loss forward-looking modeling, where each calibrated parameter should take into account any future market and macroeconomic environment changes - internal and external effects.
+Introduction of the new IFRS9 standards increases the necessity for quantification of macroeconomic environment effects on the bank portfolio, modeling standardization and automation. One of the IFRS9 requirements refers to the expected credit loss forward-looking modeling, where each calibrated parameter should take into account any future market and macroeconomic environment changes - internal and external effects.
 
 ![img](jfloret_macro_modeler.png)
 
-Our new software product JFloret™ Macro Modeler is an ideal solution for quantification of effects of different indicators on the bank portfolio. It’s user friendly and covers wide spectrum of application - IFRS9, stress testing, ICAAP, collateral re-evaluation etc.
+Our new product JFloret™ Macro Modeler is an ideal software solution for quantification of effects of different indicators on the bank portfolio. It’s user friendly and covers wide spectrum of application - IFRS9, stress testing, ICAAP, collateral re-evaluation etc.
 
 Indicators are given as independent variables, and they are not limited only to the available macroeconomic indicators. The portfolio development is measured by probability of default, loss rate, loan to value ratio, which are given as dependent variables. The software efficiently provides quantification of effects of selected indicators supported by machine learning algorithms.
 
@@ -26,5 +24,5 @@ A user is not required to be an expert in the field of econometric modeling. The
 >
 > – Marissa Mayer, CEO Yahoo!
 
-If you want to be one jump ahead of the game, feel free to contact us in order to arrange presentation, answer all your questions regarding macro modeling, and let’s see what the data says - ‘the sooner the better’.
+If you want to be one jump ahead of the game, feel free to contact us in order to arrange presentation. We will answer all your questions regarding macro modeling, and let’s see what the data says - ‘the sooner the better’.
 
