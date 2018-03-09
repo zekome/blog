@@ -12,7 +12,7 @@ Introduction of the new IFRS9 standards increases the necessity for quantificati
 
 ![img](jfloret_macro_modeler.png)
 
-Our new product JFloret™ Macro Modeler is an ideal software solution for quantification of effects of different indicators on the bank portfolio. It’s user friendly and covers wide spectrum of application - IFRS9, stress testing, ICAAP, collateral re-evaluation etc.
+Our new product **JFloret™ Macro Modeler** is an **ideal software solution** for quantification of effects of different indicators on the bank portfolio. It’s user friendly and covers wide spectrum of application - IFRS9, stress testing, ICAAP, collateral re-evaluation etc.
 
 Indicators are given as independent variables, and they are not limited only to the available macroeconomic indicators. The portfolio development is measured by probability of default, loss rate, loan to value ratio, which are given as dependent variables. The software efficiently provides quantification of effects of selected indicators supported by machine learning algorithms.
 
