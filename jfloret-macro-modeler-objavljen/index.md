@@ -8,8 +8,6 @@ Date: 08 March 2018
 Tags: jfloret
 Lang: sr, sh, hr, bs
 RefLang: /jfloret-macro-modeler-released/index.md
-Stealth: yes
-Noindex: yes
 ```
 
 Uvođenjem novih standarda izvještavanja MFSI9, javlja se rastuća potreba za kvantifikovanjem uticaja makroekonomskog okruženja na portfolio banke, standardizaciju i automatizaciju ekonometrijskog modeliranja. Jedan od zahtjeva standarda odnosi se na definisanje predikcionog modela očekivanog gubitka, pri čemu parametri modela treba da uzmu u obzir sva relevantna buduća kretanja tržišta i makroekonomskog okruženja - interni i eksterni uticaj.
@@ -28,4 +26,4 @@ Od korisnika se ne zahtijeva visok nivo ekspertize iz oblasti ekonometrijskog mo
 >
 > – Marissa Mayer, Yahoo! direktor
 
-Ukoliko želite da budete jedan skok ispred svih, slobodno nas kontaktirajte kako bi organizovali prezentaciju,  odgovorili na sva vaša pitanja u vezi sa makro modeliranjem i vidjeli šta kažu podaci - ‘što prije to bolje’.
+Ukoliko želite da budete jedan skok ispred svih, slobodno nas kontaktirajte kako bi organizovali prezentaciju.  Odgovorićemo na sva vaša pitanja u vezi sa makro modeliranjem i vidjeti šta kažu podaci - ‘što prije to bolje’.
