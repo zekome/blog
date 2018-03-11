@@ -1,7 +1,7 @@
 ```.header
 Title: JFloret™ Macro Modeler - Objavljen
 Subtitle: Softversko riješenje za kvantifikovanje uticaja makroekonomskog okruženja na portfolio banke
-Description: Naš novi proizvod JFloret™ Macro Modeler predstavlja idealno softversko riješenje za kvantifikovanje uticaja seta indikatora na razvoj portfolija banke.
+Description: Naš novi proizvod, JFloret™ Macro Modeler, predstavlja idealno softversko riješenje za kvantifikovanje uticaja seta indikatora na razvoj portfolija banke.
 Image: jfloret_macro_modeler.png
 Author: Djordje Zekovic @zekome
 Date: 08 March 2018
@@ -14,7 +14,7 @@ Uvođenjem novih standarda izvještavanja MFSI9, javlja se rastuća potreba za k
 
 ![img](jfloret_macro_modeler.png)
 
-Naš novi proizvod **JFloret™ Macro Modeler** predstavlja **idealno softversko riješenje** za kvantifikovanje uticaja seta indikatora na razvoj portfolija banke. Softver je vrlo jednostavan za korišćenje i široke je primjene - MFSI9, stresno testiranje, ICAAP, procjena vrijednosti kolaterala i slično.
+Naš novi proizvod, **JFloret™ Macro Modeler**, predstavlja **idealno softversko riješenje** za kvantifikovanje uticaja seta indikatora na razvoj portfolija banke. Softver je vrlo jednostavan za korišćenje i široke je primjene - MFSI9, stresno testiranje, ICAAP, procjena vrijednosti kolaterala i slično.
 
 Indikatori se zadaju kao nezavisne varijable, koje nisu nužno ograničene samo na makroekonomske indikatore. Razvoj portfolija banke se definiše zavisnim varijablama, kao što su vjerovatnoće default-a, stope gubitaka, vrijednosti hipoteka itd. Kroz implementaciju algoritama mašinskog učenja (eng. machine learning) sistem na efikasan način omogućava kvantifikovanje uticaja odabranih indikatora.
 
