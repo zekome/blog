@@ -8,7 +8,7 @@ Date: 08 March 2018
 Tags: jfloret
 ```
 
-Introduction of the new IFRS9 standards have increased the necessity for quantification of macroeconomic environment effects on the bank portfolio, modeling standardization and automation. One of the IFRS9 requirements refers to the expected credit loss forward-looking modeling, where each calibrated parameter should consider any future market and macroeconomic environment changes - internal and external effects.
+Introduction of the new IFRS9 standards have increased the necessity for quantification of macroeconomic environment effects on the bank portfolio, modeling standardization and automation. One of the IFRS9 requirements refers to the forward-looking expected credit loss modeling, where each calibrated parameter should consider any future market and macroeconomic environment changes - internal and external effects.
 
 ![img](jfloret_macro_modeler.png)
 
