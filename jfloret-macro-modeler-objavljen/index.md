@@ -20,7 +20,7 @@ Indikatori se zadaju kao nezavisne varijable, koje nisu nužno ograničene samo 
 
 ![img](jfloret_macro_modeler.gif)
 
-Od korisnika se ne zahtijeva visok nivo ekspertize iz oblasti ekonometrijskog modeliranja. Implementiramo različite metodologije i omogućavamo testiranje višestrukih screnarija. Broj simulacija je neograničen, simulacije se skladište, pa je moguće porediti različite pristupe u modeliranju.
+Od korisnika se ne zahtijeva visok nivo ekspertize iz oblasti ekonometrijskog modeliranja. Implementiramo različite metodologije i omogućavamo testiranje višestrukih scenarija. Broj simulacija je neograničen, simulacije se skladište, pa je moguće porediti različite pristupe u modeliranju.
 
 > Kada su u pitanju podaci, ‘što prije to bolje’ je uvijek najbolji odgovor.
 >
