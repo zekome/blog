@@ -1,7 +1,7 @@
 ```.header
 Title: JFloret™ IFRS9 ECL
-Subtitle: A software solution that provides an integrated environment for implementation of IFRS9 standards
-Description: t covers parameters calibration (PD, LGD, SR, etc.), staging, forward-looking adjustments, expert’s adjustments, ECL calculation, and provides different scenario comparison.
+Subtitle: Softversko rješenje za implementaciju IFRS9 standarda
+Description: Pokriva kalibraciju parametara (PD, LGD, SR i sl.), staging, forward-looking podešavanja, ekspertska prilagođavanja, ECL kalkulaciju i upoređivanje različitih scenarija.
 Image: jfloret_ifrs9_ecl.png
 Author: Djordje Zekovic @zekome
 Date: 31 December 2018
