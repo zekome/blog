@@ -10,9 +10,6 @@ Lang: sr, sh, hr, bs
 RefLang: /tuxhat-sms-gateway/index.md
 ```
 
-# TuxHat™ SMS Gateway
-*Usmjeravajte vremenski-kritične SMS tekstualne poruke na pouzdan način.*
-
 **TuxHat™ SMS Gateway** je namjenski sistem za usmjeravanje SMS poruka preko lokalnih servisnih operatora i eksternih klaud provajdera na troškovno optimizovan način, omogućava raznovrsne servise putem poruke, kao i proizvoljne polise korišćenja servisa za razna korisnička okruženja.
 
 ![TuxHat™ SMS Gateway](tuxhat_sms_gateway_cover.png)
