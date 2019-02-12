@@ -8,9 +8,6 @@ Date: 12 February 2019
 Tags: tuxhat
 ```
 
-# TuxHat™ SMS Gateway
-*Get the time-critical SMS messages routed reliably.*
-
 **TuxHat™ SMS Gateway** is a dedicated system for routing SMS messages through local service carriers and external cloud providers by optimizing the operating costs, enabling diversified messaging services, and providing custom service usage policy for different kind of user environments. 
 
 ![TuxHat™ SMS Gateway](tuxhat_sms_gateway_cover.png)
