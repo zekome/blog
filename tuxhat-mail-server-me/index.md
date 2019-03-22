@@ -58,13 +58,13 @@ Na slikama ispod možete vidjeti MxToolbox testove - izvještaj o zdravlju domen
 
 Radi se o **živom sistemu.** Postoje **tri stvari** koje morate razmatrati uvijek zajedno kada implementirate mejl sistem: rješenje za mejl server sa naprednim funkcionalnostima, iskusne postmaster administratore za održavanje servisa, kao i uvijek da bude zadovoljena usklađenost implementacije sa vodećim standardima, specifikacijama i preporukama. 
 
-Naredna slika pokazuje takođe izvještaj o zdravlju domena - sve zeleno, za mejl domen Fonda za zdravstveno osiguranje Crne Gore, gdje se mejl server nalazi na njihovoj lokaciji, gdje uspješno opslužuju veliki broj korisnika, uz to da je implementacija mejl servisa potpuno usklađena sa vodećim standardima. Ovo je primjer gdje velika organizacija, sa značajnom bazom korisnika, koji šalju veliki broj mejlova na dnevnom nivou, uspjeva da održava reputaciju svog mejl domena uvijek u zelenoj zoni, na način što uvijek prate vodeće preporuke u industriji.
+Naredna slika pokazuje takođe izvještaj o zdravlju domena - sve zeleno, za mejl domen Fonda za zdravstveno osiguranje Crne Gore, gdje se mejl server nalazi na njihovoj lokaciji, gdje uspješno opslužuju veliki broj korisnika, uz to da je implementacija mejl servisa potpuno usklađena sa vodećim standardima. Ovo je primjer gdje velika organizacija, sa značajnom bazom korisnika, koji šalju veliki broj mejlova na dnevnom nivou, uspjeva da održava reputaciju svog mejl domena u zelenoj zoni, na način što uvijek prate vodeće preporuke u industriji.
 
 ![MxToolbox testovi - Izvještaj o zdravlju domena - sve zeleno / rfzcg(tačka)co(tačka)me](mxtoolbox_tests_rfzcg_co_me.png)
 
 Dakle, nudimo vam **kompletan paket** usluga - sve tri stvari.
 
-Osim toga, pružamo usluge razvoja za visoko-zahtjevne korisnike, kao i specifične usluge dorade za servere servisne politike, za transakcione puteve obrade mejla prema narudžbenom zahtjevu, za namjenske mejl gejtvej uređaje, klasterizovane sisteme za razmjenu mejlova i  za pametne mejl hostove.  
+Osim toga, pružamo usluge razvoja za visoko-zahtjevne korisnike, kao i specifične usluge dorade za servere servisne politike, za transakcione puteve obrade mejla prema narudžbenom zahtjevu, za namjenske mejl gejtvej uređaje, klasterizovane sisteme za razmjenu mejlova i za pametne mejl hostove.  
 
 ## Šta je sve uključeno?
 
