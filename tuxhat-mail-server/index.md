@@ -40,13 +40,13 @@ But, just a running mail server alone is not enough. You can have exceptional fe
 
 You need to be very careful to keep the mail server playing nice with others - as many people rely on their mail servers even more than their web sites. In computers and technology, a postmaster is the administrator of a mail server and he is supposed to take care of mail service health.
 
-> Our mail server has been running flawlessly for years. All issues have been solved quickly and we've been very satisifed with the provided postmaster services. Kudos to Zeko.Me. - Sreten Scepanovic, Founder, Ekspert.me
+> Our mail server has been running flawlessly for years. All issues have been solved quickly and we've been very satisifed with the provided postmaster services. Kudos to Zeko.Me. - Sreten Scepanovic, Founder, KatalogPropisa.me
 
 We provide the **postmaster services**, which usually includes:  tracking mail system usage, monitoring connections, analyzing delivery reports, checking logs, managing mail queue and disk space, backing up and restoring email files, tuning the overall system,  defining mail exchange strategy, and dealing with spam - all just to keep the highest domain reputation. Nearly every domain should have the e-mail address *postmaster@example.com* and *abuse@example.com* where errors in email processing and complaints are directed. Someone needs to take care of it, and we can manage it for you.
 
 Now, let’s jump to the final level. We take the **compliance** of our mail server solution seriously. It’s a highly compliant system in respect to the leading industry standards. We keep up with the all-green indicators - in all MxToolbox’s tests results,  as they provide accurate network diagnostic and lookup tools for mail domains.
 
-On the following images you can see MxToolbox test results - domain health report - all green, Google Postmaster Tools - Domain reputation jumps to High after DMARC upgrade, and 100% passing authentication for DKIM, SPF, and DMARC - all for domain ekspert(dot)me.
+On the following images you can see MxToolbox test results - domain health report - all green, Google Postmaster Tools - Domain reputation jumps to High after DMARC upgrade, and 100% passing authentication for DKIM, SPF, and DMARC - all for domain ekspert(dot)me, hosted in the cloud, on dedicated server, and also using IPv6.
 
 ![MxToolbox tests results - Domain health report - all green / ekspert(dot)me](mxtoolbox_tests_ekspert_me.png)
 
@@ -55,6 +55,10 @@ On the following images you can see MxToolbox test results - domain health repor
 ![Google Postmaster Tools - 100% passing authentication for DKIM, SPF, DMARC / ekspert(dot)me](authentication_rate_after_dmarc.png)
 
 It’s about *a live system*. There are **three things** that you should always consider together when implementing mail system: a mail server solution with advanced features, skilled postmasters to take care of the maintenance, and always satisfied conformity of the implementation with the leading standards, specification, and recommendations. 
+
+Next image shows also the domain health report - all green, for mail domain of National Insurance Fund For Health Of Montenegro, where mail server is located on premises, providing mail service for large users base, and which implementation is fully compliant with the leading standards. This is an example where large organization, with many users sending a lot of mails on daily basis, keeps their mail domain in the green zone by always following the leading recommendations in the industry.
+
+![MxToolbox tests results - Domain health report - all green / rfzcg(dot)co(dot)me](mxtoolbox_tests_rfzcg_co_me.png)
 
 So, we offer to you **the full package** - all three things.
 
