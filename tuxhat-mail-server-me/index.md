@@ -33,7 +33,7 @@ Bez obzira da li je mejl primljen, odložen za slanje, nije poslat ili se vraća
 
 ## Naše usluge
 
-Na raspolaganju su usluge **migracije korisnika i podataka** kao dio implementacije TuxHat mejl servera. Migriramo vašu postojeću bazu korisnika, zajedno sa njihovim mejlovima, na novi sistem. Nema absolutno nikakvog razloga da se odupirete ovom izazovu zbog prelaska na novi mejl server. Proces migracije podatka protiče uvijek glatko i bez poteškoća. Pokazaćemo potrebno strpljenje,  upornost, kao i preciznost da migriramo potrebne podatke. 
+Na raspolaganju su usluge **migracije korisnika i podataka** kao dio implementacije TuxHat mejl servera. Migriramo vašu postojeću bazu korisnika, zajedno sa njihovim mejlovima, na novi sistem. Nema apsolutno nikakvog razloga da se odupirete ovom izazovu zbog prelaska na novi mejl server. Proces migracije podatka protiče uvijek glatko i bez poteškoća. Pokazaćemo potrebno strpljenje,  upornost, kao i preciznost da migriramo potrebne podatke. 
 
 Možete i da obezbijedite serverski hardver na vašoj lokaciji, ili mi možemo da omogućimo zasebne servere kod vodećih cloud provajdera. Oba načina imaju svoje prednosti i tipične scenarije upotrebe. **Namjenski hosting plan** za vaš mejl sistem može da uvede neke dodatne benefite kao:  veća mrežna propusna moć, bolja dostupnost infrastrukture, redudantne IP adrese sa više alternativnih mrežnih puteva kako bi servis radio bez prekida, brzi transferi rezervnih kopija do skladištenog prostora unutar cloud-a, zaštita od DDoS napada, mejl transakcije preko IPv6 ruta, itd.
 
@@ -42,13 +42,13 @@ Možete imati vrhunske funkcionalnosti, ali bez odgovarajuće pažnje od strane 
 
 Morate biti veoma pažljivi da bi održali mejl server na nivou prihvatljive komunikacije sa drugima, jer dosta korisnika se oslanja na pouzdanost njihovih mejl servera mnogo više nego na pouzdanost web sajtova. U informatičkom smislu, postmaster je administrator mejl servera i od njega se očekuje da pazi na sveukupno zdravlje mejl servisa.
 
-> Naš mejl server radi bez problema već godinama. Sve poteškoće su uvijek bile brzo otklonjene i vrlo smo zadovoljni sa postmaster uslugama. Sve pohvale za Zeko.Me. - Sreten Šćepanović, Osnivač, Ekspert.me
+> Naš mejl server radi bez problema već godinama. Sve poteškoće su uvijek bile brzo otklonjene i vrlo smo zadovoljni sa postmaster uslugama. Sve pohvale za Zeko.Me. - Sreten Šćepanović, Osnivač, KatalogPropisa.me
 
 Pružamo **usluge postmaster administracije**, koje obično uključuju: praćenje korišćenja mejl sistema, monitoring konekcija, analiziranje izvještaja o isporuci, provjera logova, upravljanje mejl protočnim redovima i disk prostorom, pravljenje rezervnih kopija i oporavak, definisanje strategije razmjene mejlova, rješavanje problema sa spamom - sve ovo da bi se samo održala najveća reputacija domena. Gotovo svaki domen treba da ima mejl adrese *postmaster@example.com* i *abuse@example.com*, gdje se žalbe i greške u transakcijama proslijeđuju. Neko se mora pobrinuti za to, a mi to možemo raditi za vas. 
 
 A sada, da skočimo na finalni nivo. Mi doživljavamo **usklađenost** našeg mejl server rješenja sa standardima ozbiljno. Radi se o vrlo usklađenom sistemu u pogledu vodećih industrijskih standarda. Održavamo sistem tako da su svi indikatori u zelenom - iz MxToolbox testova, koji omogućavaju tačnu dijagnostiku za mejl domene.
 
-Na slikama ispod možete vidjeti MxToolbox testove - izvještaj o zdravlju domena (sve zeleno), Google Postmaster Alati - reputacija domena je skočila na Visoko, nakon DMARC nadogradnje i 100% prolaznost autentifikacije za DKIM, SPF i DMARC / sve za domen ekspert(tačka)me.
+Na slikama ispod možete vidjeti MxToolbox testove - izvještaj o zdravlju domena (sve zeleno), Google Postmaster Alati - reputacija domena je skočila na Visoko, nakon DMARC nadogradnje i 100% prolaznost autentifikacije za DKIM, SPF i DMARC / sve za domen ekspert(tačka)me, hostovan u cloud-u, na nezavisnom serveru i sa IPv6 adresom.
 
 ![MxToolbox testovi - Izvještaj o zdravlju domena - sve zeleno / ekspert(tačka)me](mxtoolbox_tests_ekspert_me.png)
 
@@ -57,6 +57,10 @@ Na slikama ispod možete vidjeti MxToolbox testove - izvještaj o zdravlju domen
 ![Google Postmaster Tools - 100% prolaznost autentifikacije za DKIM, SPF i DMARC / ekspert(tačka)me](authentication_rate_after_dmarc.png)
 
 Radi se o **živom sistemu.** Postoje **tri stvari** koje morate razmatrati uvijek zajedno kada implementirate mejl sistem: rješenje za mejl server sa naprednim funkcionalnostima, iskusne postmaster administratore za održavanje servisa, kao i uvijek da bude zadovoljena usklađenost implementacije sa vodećim standardima, specifikacijama i preporukama. 
+
+Naredna slika pokazuje takođe izvještaj o zdravlju domena - sve zeleno, za mejl domen Fonda za zdravstveno osiguranje Crne Gore, gdje se mejl server nalazi na njihovoj lokaciji, na način da uspješno opslužuju veliki broj korisnika i gdje je implementacija mejl servisa potpuno usklađena sa vodećim standardima. Ovo je primjer gdje velika organizacija, sa značajnom bazom korisnika koji šalju veliki broj mejlova na dnevnom nivou, uspjeva da očuva reputaciju svog mejl domena u zelenoj zoni tako što uvijek prate vodeće preporuke u industriji.
+
+![MxToolbox testovi - Izvještaj o zdravlju domena - sve zeleno / rfzcg(tačka)co(tačka)me](mxtoolbox_tests_rfzcg_co_me.png)
 
 Dakle, nudimo vam **kompletan paket** usluga - sve tri stvari.
 
