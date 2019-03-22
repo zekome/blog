@@ -2,7 +2,7 @@
 Title: TuxHat™ Mail Server
 Subtitle: Our mail server, carefully tuned for the highest domain reputation
 Description: A highly compliant mail service environment, which consists of many software components tuned together to provide rich features of mail transfer and delivery agent, mailbox service, webmail client, spam filter and antivirus protection. 
-Image: tuxhat_mail_server.png
+Image: tuxhat_mail_server2.png
 Author: Djordje Zekovic @zekome
 Date: 21 March 2019
 Tags: tuxhat
@@ -10,7 +10,7 @@ Tags: tuxhat
 
 **TuxHat™ Mail Server** is a highly compliant mail service environment, which consists of many software components tuned together to provide rich features of mail transfer and delivery agent, mailbox service, webmail client, spam filter and antivirus protection - designed to keep the highest reputation of your mail domain as receivers keep track of how your domain is used and performs in all messages. The high reputation is an ultimate factor in email deliverability.
 
-![TuxHat™ Mail Server - designed for the highest domain reputation](tuxhat_mail_server.png)
+![TuxHat™ Mail Server - designed for the highest domain reputation](tuxhat_mail_server2.png)
 
 **Email is an important and irreplaceable means of communication in business.** You can outsource email to web-based services like Google Apps for Business, or Office365, that’s for sure, but there are some trade-offs. Let’s first see why would you choose to **host your own mail server**?
 
